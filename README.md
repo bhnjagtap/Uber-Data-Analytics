@@ -6,8 +6,8 @@ A Power BI project designed to analyze Uber Auto ride performance, revenue trend
 ## 🖼️ Dashboard Preview  
 (Add your screenshots here)
 
-![Dashboard Screenshot 1](./images/dashboard_1.png)
-![Dashboard Screenshot 2](/Screenshot 2025-11-21 173954.png)
+![Dashboard Screenshot 1](./images/image1.png)
+![Dashboard Screenshot 2](./images/image2.png)
 
 ---
 
