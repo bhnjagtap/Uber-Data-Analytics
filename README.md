@@ -80,10 +80,8 @@ The objective of this project is to build a clear, insight-driven dashboard that
 ## 🗂️ Project Structure
 
 ```bash
-├── data/
-│   └── uber_data.csv
+├── uber_data.csv
 ├── images/
-│   ├── dashboard_1.png
-│   ├── dashboard_2.png
-├── Uber_Auto_Analytics.pbix
+│   ├── image1.png
+│   ├── image2.png
 └── README.md
