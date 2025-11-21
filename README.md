@@ -80,7 +80,7 @@ The objective of this project is to build a clear, insight-driven dashboard that
 ## 🗂️ Project Structure
 
 ```bash
-├── uber_data.csv
+├── uber_data.xlsx
 ├── images/
 │   ├── image1.png
 │   ├── image2.png
